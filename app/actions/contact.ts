@@ -4,7 +4,7 @@ import { Resend } from "resend"
 
 // Initialize Resend with your API key
 // In production, use environment variables
-const resend = new Resend(process.env.RESEND_API_KEY || "re_71acemaA_5aBfb56XwiMMqczSb1ymyVtQ")
+const resend = new Resend(process.env.RESEND_API_KEY)
 
 export type ContactFormData = {
   name: string
