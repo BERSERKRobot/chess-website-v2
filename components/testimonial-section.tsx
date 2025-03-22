@@ -27,24 +27,24 @@ export default function TestimonialSection() {
 
   const testimonials = [
     {
-      name: "Sarah Chen",
-      role: "Parent of 8-year-old student",
+      name: "Gabby F",
+      role: "Parent of 6-year-old student",
       content:
-        "My son has been taking chess lessons for six months and the transformation is remarkable. His focus and problem-solving skills have improved, and he looks forward to his lessons every week!",
+        "“If you’re looking for a chess teacher who is truly amazing look no further! Aaron is amazing. Not only is he skilled at chess but he is able to break down strategies. He’s patient and makes my son feel supported and encouraged throughout his lesson. Aaron is knowledgeable, kind, patient and dedicated. My son has learned so much!”",
       avatar: "/placeholder.svg?height=100&width=100",
     },
     {
-      name: "Robert Johnson",
-      role: "Senior Chess Club Member, 72",
+      name: "Warren H",
+      role: "Senior Chess Club Member, 73",
       content:
-        "Joining the senior chess club has been wonderful for my mental sharpness and social life. The instructors are patient and make learning enjoyable, even for those of us who are beginners.",
+        "I've known Aaron for years. Through the years, Aaron has taught me so many different ideas and concepts about chess. I've noticed a marked improvement in my cognition because of his instruction. I think learning chess is an amazing thing, especially for seniors, and Aaron has helped so much in that regard.",
       avatar: "/placeholder.svg?height=100&width=100",
     },
     {
       name: "Maria Rodriguez",
-      role: "Elementary School Principal",
+      role: "Parent of an 8-year old student",
       content:
-        "The chess program they established at our school has been a huge success. Students are engaged, learning valuable skills, and we've seen improvements in focus and behavior across the board.",
+        "The chess lessons he provides my daughter have been a huge success. My daughter is engaged, has learned valuable skills, and we've seen improvements in focus and behavior across the board.",
       avatar: "/placeholder.svg?height=100&width=100",
     },
   ]
