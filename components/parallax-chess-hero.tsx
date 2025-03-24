@@ -138,7 +138,7 @@ export default function ParallaxChessHero() {
           boxShadow: "0 0 30px rgba(0, 0, 0, 0.5)",
         }}
       >
-        <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">Master the Art of Chess</h1>
+        <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">Master the Science of Chess</h1>
         <p className="text-xl md:text-2xl text-gray-100 mb-8">
           Chess instruction for kids, seniors, and community programs in San Diego
         </p>
